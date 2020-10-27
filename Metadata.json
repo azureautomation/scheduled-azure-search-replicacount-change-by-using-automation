@@ -1,0 +1,20 @@
+{
+    "Author": "YoungjaeKim",
+    "ContentSize": 2134,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/scheduled-azure-search-replicacount-change-by-using-automation/master/AzureSearchSetReplicaCount.ps1",
+    "DownloadCount": 478,
+    "Id": "Azure-Search-change-c0b49c4c",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 260,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2017-6-19T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "You can change Azure Search Replica Count with given schedules. Import it to Azure Automation runbook.",
+    "Title": "Scheduled Azure Search ReplicaCount Change by using Automation",
+    "UpdatedDate": "2017-6-19T00:00:00",
+    "Url": "https://github.com/azureautomation/scheduled-azure-search-replicacount-change-by-using-automation",
+    "UserTags": "Microsoft Azure, Search, High Availability"
+}
